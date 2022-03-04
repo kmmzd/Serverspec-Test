@@ -1,7 +1,7 @@
 # Serverspec-Test
 serverspec sample template.  
 Serverspecのサンプルリポジトリです。  
-テスト対象のipアドレスは、`~/.ssh/config`にて指定します。
+SSH_keyは、`~/.ssh/config`にて指定します。
 
 # Diagram
 
