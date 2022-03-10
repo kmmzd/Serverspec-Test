@@ -1,7 +1,7 @@
 # Serverspec-Test
 serverspec sample template.  
 Serverspecのサンプルリポジトリです。  
-SSH_keyは、`~/.ssh/config`にて指定します。
+SSH_Keyは、`~/.ssh/config`にて指定します。
 
 # Diagram
 
